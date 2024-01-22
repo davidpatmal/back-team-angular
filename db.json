@@ -1,0 +1,244 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Zapatos Vintage",
+            "price": 49.99,
+            "description": "Bellos zapatos antiguos para Hipsters.",
+            "stars": 4.5,
+            "image": "https://i.ibb.co/4j85tBM/shoes.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Máquina de escribir",
+            "price": 109.99,
+            "description": "Bonita máquina de escribir antigua.",
+            "stars": 4.2,
+            "image": "https://i.ibb.co/84zfbz0/maquina.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Lapiceros de colores",
+            "price": 1.99,
+            "description": "Estupendos bolígrafos de colores.",
+            "stars": 1,
+            "image": "https://i.ibb.co/s5m7HKt/lapiceros.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Pantalón",
+            "price": 49.99,
+            "description": "Pantalón de moto para evitar heridas.",
+            "stars": 4,
+            "image": "https://i.ibb.co/6nnVkNY/pantalon.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Cuaderno de colores",
+            "price": 7.25,
+            "description": "Excelente cuaderno para que apuntes tus clases.",
+            "stars": 3.5,
+            "image": "https://i.ibb.co/Jr3FHVd/cuaderno.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Jarabe marca blanca",
+            "price": 12.5,
+            "description": "No cura el COVID, pero está muy rico.",
+            "stars": 1,
+            "image": "https://i.ibb.co/mhgHWnf/jarabe.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Maceta de diseño",
+            "price": 9.99,
+            "description": "Maceta de diseño a precio económico.",
+            "stars": 5,
+            "image": "https://i.ibb.co/MZSrV6q/maceta.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Gato Persa",
+            "price": 100,
+            "description": "No sé si es legal vender animales online...",
+            "stars": 3,
+            "image": "https://i.ibb.co/1zPPBjx/gato.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Reloj de pulsera",
+            "price": 79.99,
+            "description": "Elegante reloj para lucir en tu muñeca.",
+            "stars": 4.8,
+            "image": "https://i.ibb.co/hsVXJ6H/reloj.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Bicicleta urbana",
+            "price": 249.99,
+            "description": "Ideal para desplazamientos en la ciudad.",
+            "stars": 4.5,
+            "image": "https://i.ibb.co/d0FTD7N/bicicleta.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Libro de poesía",
+            "price": 15.99,
+            "description": "Una colección de hermosos poemas.",
+            "stars": 4,
+            "image": "https://i.ibb.co/jkRjG9Y/libro.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Silla de oficina",
+            "price": 89.99,
+            "description": "Cómoda silla para largas horas de trabajo.",
+            "stars": 4.2,
+            "image": "https://i.ibb.co/5YXxNZT/silla.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Cámara vintage",
+            "price": 179.99,
+            "description": "Captura momentos con estilo retro.",
+            "stars": 4.6,
+            "image": "https://i.ibb.co/0s0VhY3/camara.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Teclado mecánico",
+            "price": 129.99,
+            "description": "Para los amantes de la escritura fluida.",
+            "stars": 4.4,
+            "image": "https://i.ibb.co/wY2T1Cm/teclado.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Juego de mesa clásico",
+            "price": 19.99,
+            "description": "Diversión asegurada para toda la familia.",
+            "stars": 3.8,
+            "image": "https://i.ibb.co/2Yc9dx0/juego.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Lámpara de pie moderna",
+            "price": 59.99,
+            "description": "Ilumina tu espacio con estilo contemporáneo.",
+            "stars": 4.7,
+            "image": "https://i.ibb.co/crPpXsD/lampara.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Auriculares inalámbricos",
+            "price": 39.99,
+            "description": "Disfruta de tu música sin cables molestos.",
+            "stars": 4.1,
+            "image": "https://i.ibb.co/rpxrW5Z/auriculares.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Puzzle de 1000 piezas",
+            "price": 14.99,
+            "description": "Desafía tu mente con este entretenido puzzle.",
+            "stars": 3.5,
+            "image": "https://i.ibb.co/Yd1Vr9j/puzzle.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Bufanda de lana",
+            "price": 9.99,
+            "description": "Mantente abrigado con estilo en invierno.",
+            "stars": 4,
+            "image": "https://i.ibb.co/y5Mv2pZ/bufanda.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Maletín ejecutivo",
+            "price": 49.99,
+            "description": "Transporta tus documentos con elegancia.",
+            "stars": 4.3,
+            "image": "https://i.ibb.co/QN5sGJy/maletin.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Altavoz Bluetooth",
+            "price": 29.99,
+            "description": "Sonido de alta calidad sin cables.",
+            "stars": 4.0,
+            "image": "https://i.ibb.co/Z2R7GZZ/altavoz.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Kit de jardinería",
+            "price": 19.99,
+            "description": "Todo lo que necesitas para tu propio jardín.",
+            "stars": 3.9,
+            "image": "https://i.ibb.co/BPx3F1t/jardineria.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Mochila impermeable",
+            "price": 34.99,
+            "description": "Protege tus pertenencias de la lluvia.",
+            "stars": 4.2,
+            "image": "https://i.ibb.co/6wmSwwF/mochila.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Botellas de agua reutilizables",
+            "price": 9.99,
+            "description": "Contribuye al medio ambiente con estas botellas.",
+            "stars": 4.5,
+            "image": "https://i.ibb.co/J2FZHbX/botellas.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Telescopio astronómico",
+            "price": 149.99,
+            "description": "Observa las estrellas con este potente telescopio.",
+            "stars": 4.8,
+            "image": "https://i.ibb.co/4Vp7Jg1/telescopio.jpg"
+        },
+        {
+            "id": 26,
+            "name": "Sartenes antiadherentes",
+            "price": 29.99,
+            "description": "Cocina con facilidad gracias a estas sartenes.",
+            "stars": 4.0,
+            "image": "https://i.ibb.co/4R0h0RZ/sartenes.jpg"
+        },
+        {
+            "id": 27,
+            "name": "Set de herramientas",
+            "price": 49.99,
+            "description": "Todo lo necesario para tus proyectos de bricolaje.",
+            "stars": 4.3,
+            "image": "https://i.ibb.co/ZXdYTs2/herramientas.jpg"
+        },
+        {
+            "id": 28,
+            "name": "Puzzle 3D",
+            "price": 17.99,
+            "description": "Construye tu propia maqueta en tres dimensiones.",
+            "stars": 3.7,
+            "image": "https://i.ibb.co/mF7tR5G/puzzle-3d.jpg"
+        },
+        {
+            "id": 29,
+            "name": "Linterna recargable",
+            "price": 12.99,
+            "description": "Ilumina tus aventuras con esta linterna.",
+            "stars": 4.1,
+            "image": "https://i.ibb.co/ZxMTgM5/linterna.jpg"
+        },
+        {
+            "id": 30,
+            "name": "Pelota de yoga",
+            "price": 15.99,
+            "description": "Mejora tu flexibilidad y equilibrio con esta pelota.",
+            "stars": 4.6,
+            "image": "https://i.ibb.co/SN7LnvN/pelota-yoga.jpg"
+        }
+    ]
+}
